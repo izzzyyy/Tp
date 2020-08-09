@@ -1,0 +1,70 @@
+#box{
+    background: white;
+    width:500px;
+    margin:100px auto;
+    padding:50px;
+    background-color: pink;
+    }
+h2{
+  margin: 20px;
+  max-width: 600px;
+  text-indent: 10px
+}
+
+h2::first-letter{
+  font-family: cursive;
+  font-size: 36px;
+  line-height: .5;
+  color: black;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+  border: 20px;
+  border: 1px solid black
+  border-radius: 150px;
+
+}
+
+.Hey{
+  width: 200px;
+  height: 200px;
+  border: 20px;
+  border: 1px solid black
+  border-radius: 150px;
+  float: right;
+}
+
+.phew{
+  width: 200px;
+  height: 200px;
+  border: 20px;
+  border: 1px solid black
+  border-radius: 150px;
+  float: left;
+}
+
+
+.hi{
+  width: 200px;
+  height: 200px;
+  border: 20px;
+  border: 1px solid black
+  border-radius: 150px;
+  float: right;
+}
+
+.video{
+  width:300px;
+  height: 150px;
+}
+
+.smile{
+  width: 200px;
+  height: 200px;
+  border: 20px;
+  border: 1px solid black
+  border-radius: 150px;
+  float: left;
+}
